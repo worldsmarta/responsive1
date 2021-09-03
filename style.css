@@ -182,7 +182,7 @@ button:hover{
     }
 
     #menuList{
-        /* overflow: hidden; */
+        overflow: hidden;
         transition: 0.5s;
     }
 
